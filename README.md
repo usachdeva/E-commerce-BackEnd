@@ -26,6 +26,6 @@ THEN I am able to successfully create, update, and delete data in my database
 ## Links
 
 ```
-git repo:
-deployed link:
+git repo: https://github.com/usachdeva/E-commerce-BackEnd
+deployed link: https://usachdeva.github.io/E-commerce-BackEnd/
 ```
