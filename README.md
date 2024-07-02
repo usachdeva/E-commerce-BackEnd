@@ -29,3 +29,11 @@ THEN I am able to successfully create, update, and delete data in my database
 git repo: https://github.com/usachdeva/E-commerce-BackEnd
 deployed link: https://usachdeva.github.io/E-commerce-BackEnd/
 ```
+
+## Walkthrough
+
+```
+categories: https://www.youtube.com/watch?v=dPGgqNQdjbU&list=PLmMOS6uf4jcmzzt5sdAHVCT5f_IZBpTUM&index=2
+tags: https://www.youtube.com/watch?v=dahpsVrXNX4&list=PLmMOS6uf4jcmzzt5sdAHVCT5f_IZBpTUM&index=2
+products: https://www.youtube.com/watch?v=fDW7noKyxZk&list=PLmMOS6uf4jcmzzt5sdAHVCT5f_IZBpTUM&index=3
+```
